@@ -1,4 +1,5 @@
 # JBL Tune 770NC Quickshell Widget
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/1367a502-f7ec-4026-8208-a5234307859a" />
 
 A dark monochrome Quickshell control panel for the JBL Tune 770NC using the supplied Python Airoha RACE RFCOMM protocol.
 Built using https://gist.github.com/wielkiborsuk/f46f6792ce9bba167a0736a2cc5ad6ae as a base, added power off, optimizations and perormance enhancements.

@@ -20,3 +20,5 @@ quickshell -p ./Main.qml
 
 The script uses the Bluetooth address `BD = "{your_headset_bluetooth_address}"` and RFCOMM channel 21. Change `BD` in `anc.py` if your headset address differs.
 
+For people still using only Windows:
+https://github.com/Xeo23/JBL-Tune-770NC-Windows-Controller/releases
